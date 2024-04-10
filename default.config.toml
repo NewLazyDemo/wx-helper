@@ -1,0 +1,7 @@
+[Default]
+# 白名单列表
+Whitelist=["蜃"]
+
+[Wechat]
+# 热登录的文件存储位置
+HotReloadStorageDir="storage.json"
